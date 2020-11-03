@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BarakCodes</h1>
-<h3 align="center">I'm as Software Engineer, architect and maker</h3>
+<h3 align="center">I'm a Software Engineer, architect and maker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barakcodes" alt="barakcodes" /> </p>
 
