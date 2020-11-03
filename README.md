@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BarakCodes</h1>
-<h3 align="center">I'm as Software Engineer and aspiring architect and maker</h3>
+<h3 align="center">I'm as Software Engineer, architect and maker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barakcodes" alt="barakcodes" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://barac.dev](https://barac.dev)
 
-- 📝 I regulary write articles on [https://barac.dev](https://barac.dev)
+- 📝 I try to  write articles on [https://barac.dev](https://barac.dev)
 
 - 💬 Ask me about **Monitoring, Logging ,Scaling Node, Typescript ,Production Docker ,Microservices and CI/CD**
 
